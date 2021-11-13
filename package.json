@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/EficodeRjpalt/package_registry/issues"
   },
-  "homepage": "https://github.com/EficodeRjpalt/package_registry#readme"
+  "homepage": "https://github.com/EficodeRjpalt/package_registry#readme",
+  "publishConfig": {
+   "@EficodeRjpalt:registry": "https://npm.pkg.github.com"
+ }
 }
