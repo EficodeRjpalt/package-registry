@@ -1,6 +1,6 @@
 {
   "your": "json config here",
-  "name": "package_registry",
+  "name": "@EficodeRjpalt/package_registry",
   "description": "This exercise checks your ability to publish to a GitHub Packages registry. It is automatically graded via a workflow once you have completed the instructions.",
   "version": "1.0.0",
   "main": "index.js",
